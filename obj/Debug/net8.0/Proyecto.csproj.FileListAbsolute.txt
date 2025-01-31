@@ -1,0 +1,17 @@
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\Proyecto.exe
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\Proyecto.deps.json
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\Proyecto.dll
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\Proyecto.pdb
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.dll
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\refint\Proyecto.dll
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.pdb
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\ref\Proyecto.dll
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\Spectre.Console.dll
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.csproj.AssemblyReference.cache
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.csproj.Up2Date

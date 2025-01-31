@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pp3XCmuGNlE=",
+  "success": true,
+  "projectFilePath": "D:\\Vanci\\Universidad\\Proyecto\\Proyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yamilet\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
