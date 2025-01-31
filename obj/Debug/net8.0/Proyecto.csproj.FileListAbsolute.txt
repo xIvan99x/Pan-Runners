@@ -15,3 +15,10 @@ D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\ref\Proyecto.dll
 D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\Spectre.Console.dll
 D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.csproj.AssemblyReference.cache
 D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.csproj.Up2Date
+D:\Vanci\Universidad\Proyecto\obj\Debug\net8.0\Proyecto.sourcelink.json
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\NAudio.dll
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\NAudio.Asio.dll
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\NAudio.Core.dll
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\NAudio.Midi.dll
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\NAudio.Wasapi.dll
+D:\Vanci\Universidad\Proyecto\bin\Debug\net8.0\NAudio.WinMM.dll
